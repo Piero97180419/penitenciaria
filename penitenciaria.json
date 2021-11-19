@@ -1,0 +1,276 @@
+{
+  "status": 1,
+  "msg": "",
+  "records": [
+    {
+      "id": "1",
+      "datop":{
+        "city": "Bay Minette",
+        "name": "Baldwin County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.sheriffofbaldwin.com/",
+        "county": "Baldwin County",
+        "phone": "(251) 937-0202",
+        "state": "AL",
+        "source_id": "al-bcso",
+        "email": "",
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "200 Hand Ave",
+        "zip_code": "36507"
+      }
+    },
+    {
+      "id": "2",
+      "datop":{
+        "city": "Anniston",
+        "name": "Calhoun County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.calcoso.org/jail.cfm",
+        "county": "Calhoun County",
+        "phone": "(256) 241-8023",
+        "state": "AL",
+        "source_id": "al-ccso",
+        "email": "estarr@calcoso.org",
+        "has_mugshots": false
+        
+      },
+      "zona":{
+        "address1": "400 West 8th Street",
+        "zip_code": "36201"
+      }
+    },
+    {
+      "id": "3",
+      "datop":{
+        "city": "La Fayette",
+        "name": "Chambers County Jail",
+        "state_full": "Alabama",
+        "source_url": "http://www.chamberscountyjail.com/index.html",
+        "county": "Chambers County",
+        "phone": "(334) 864-4336",
+        "state": "AL",
+        "source_id": "al-ccj",
+        "email": "info@chamberscountysheriff.org",
+        "has_mugshots": false 
+      },
+      "zona":{
+        "address1": "105 Alabama Ave W",
+        "zip_code": "36862"
+      }
+    },
+    {
+      "id": "4",
+      "datop":{
+        "city": "Centre",
+        "name": "Cherokee County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.cherokeecountyalsheriff.com/index.php",
+        "county": "Cherokee County",
+        "phone": "(256) 927-6435",
+        "state": "AL",
+        "source_id": "al-chso",
+        "email": "",
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "110 Cedar Bluff Road",
+        "zip_code": "35960"
+      }
+    },
+    {
+      "id": "5",
+      "datop":{
+        "city": "New Brockton",
+        "name": "Coffee Co Sheriff's Dept",
+        "state_full": "Alabama",
+        "source_url": "http://vinelink.com",
+        "county": "Coffee County",
+        "phone": "(334) 894-5535",
+        "state": "AL",
+        "source_id": "al-ccsd",
+        "email": null,
+        "has_mugshots": true  
+      },
+      "zona":{
+        "address1": "4 County Complex",
+        "zip_code": "36351"
+      }
+      
+    },
+    {
+      "id": "6",
+      "datop":{
+        "city": "",
+        "name": "Colbert County Sheriff 2019s Office",
+        "state_full": "Alabama",
+        "source_url": "http://colbertsheriff.net/",
+        "county": "Colbert County",
+        "phone": null,
+        "state": "AL",
+        "source_id": "al-colb",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "5 County Complex",
+        "zip_code": "36352"
+      }
+    },
+    {
+      "id": "7",
+      "datop":{
+        "city": "Rockford",
+        "name": "Coosa County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.coosacountyso.org/",
+        "county": "Coosa County",
+        "phone": "(256) 377-2211",
+        "state": "AL",
+        "source_id": "al-coso",
+        "email": "",
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "296 School Street",
+        "zip_code": "35136"
+      }
+    },
+    {
+      "id": "8",
+      "datop":{
+        "city": "",
+        "name": "Dale County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.daleso.com/",
+        "county": "Dale County",
+        "phone": null,
+        "state": "AL",
+        "source_id": "al-dale",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "297 School Street",
+        "zip_code": "35137"
+      }
+      
+    },
+    {
+      "id": "9",
+      "datop":{
+        "city": "",
+        "name": "DeKalb County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.dekalbcountysheriff.org/",
+        "county": "DeKalb County",
+        "phone": "(256) 845-3801",
+        "state": "AL",
+        "source_id": "al-dcso",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "2801 Jordan Rd SW",
+        "zip_code": "35138"
+        }
+    },
+    {
+      "id": "10",
+      "datop":{
+        "city": "Wetumpka",
+        "name": "Elmore Co Sheriff's Dept",
+        "state_full": "Alabama",
+        "source_url": "http://vinelink.com",
+        "county": "Elmore County",
+        "phone": "(334) 567-5546",
+        "state": "AL",
+        "source_id": "al-ecsd",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "8955 US Highway 231",
+        "zip_code": "36092"
+      }
+    },
+    {
+      "id": "11",
+      "datop":{
+        "city": "",
+        "name": "Etowah County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://vinelink.com",
+        "county": "Etowah County",
+        "phone": "(256) 543-2893",
+        "state": "AL",
+        "source_id": "al-ecso",
+        "email": "tipline@etowahcounty.org",
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "827 Forrest Ave",
+        "zip_code": "36093"
+      }
+      
+    },
+    {
+      "id": "12",
+      "datop":{
+        "city": "Fayette",
+        "name": "Fayette County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.fayetteso.com/",
+        "county": "Fayette County",
+        "phone": "(205) 932-3205",
+        "state": "AL",
+        "source_id": "al-fcso",
+        "email": "",
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "113 1St Ave NW",
+        "zip_code": "35555"
+      }
+    },
+    {
+      "id": "13",
+      "datop":{
+        "city": "",
+        "name": "Franklin County Sheriff's Office",
+        "state_full": "Alabama",
+        "source_url": "http://www.claysheriffms.org/",
+        "county": "Franklin County",
+        "phone": "(256) 332-8820",
+        "state": "AL",
+        "source_id": "al-fran",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "748 Walnut Gate Rd",
+        "zip_code": "35556"
+      }
+    },
+    {
+      "id": "14",
+      "datop":{
+        "city": "",
+        "name": "Teton County Sheriff's Office",
+        "state_full": "Wyoming",
+        "source_url": "http://www.tetonsheriff.org/",
+        "county": "Teton County",
+        "phone": null,
+        "state": "WY",
+        "source_id": "wy-tcso",
+        "email": null,
+        "has_mugshots": true
+      },
+      "zona":{
+        "address1": "749 Walnut Gate Rd",
+        "zip_code": "35557"
+      }
+    }
+  ]
+}
